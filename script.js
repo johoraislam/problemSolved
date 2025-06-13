@@ -1,7 +1,7 @@
 let b = 10;
 let a = 20;
 
-console.log("sum of 10 and 20" + a+b)
+console.log(a+b+"sum of 10 and 20")
 console.log("sum of 10 and 20 is" + (b+a))
 
 /*Explanation
